@@ -2,7 +2,7 @@ from setuptools import setup
 with open('requirements.txt') as requirements:
    setup(
       name		= 'status',
-      version		= '3.7',
+      version		= '3.8',
       packages 		= ['status'],
       package_dir	= {'': '.'},
       author		= 'askmartyn',
